@@ -8,7 +8,7 @@ API REST de suporte com papéis (cliente/agente), fluxo de tickets e métricas d
 
 ```bash
 npm install
-npm start        # inicia em http://localhost:3007
+npm start        # inicia em http://localhost:3000
 ```
 
 O projeto já sobe com uma rota raiz `GET /`. Todo o resto é com o grupo.
